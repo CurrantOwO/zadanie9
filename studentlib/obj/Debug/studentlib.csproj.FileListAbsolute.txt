@@ -1,0 +1,6 @@
+C:\Users\Виктория\Desktop\Домашка\Практика\zadanie8\studentlib\bin\Debug\studentlib.dll
+C:\Users\Виктория\Desktop\Домашка\Практика\zadanie8\studentlib\bin\Debug\studentlib.pdb
+C:\Users\Виктория\Desktop\Домашка\Практика\zadanie8\studentlib\obj\Debug\studentlib.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\Домашка\Практика\zadanie8\studentlib\obj\Debug\studentlib.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Домашка\Практика\zadanie8\studentlib\obj\Debug\studentlib.dll
+C:\Users\Виктория\Desktop\Домашка\Практика\zadanie8\studentlib\obj\Debug\studentlib.pdb

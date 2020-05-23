@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "zadanie8/1.0.0": {
+        "dependencies": {
+          "studentlib": "1.0.0"
+        },
+        "runtime": {
+          "zadanie8.dll": {}
+        }
+      },
+      "studentlib/1.0.0": {
+        "runtime": {
+          "studentlib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zadanie8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "studentlib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
